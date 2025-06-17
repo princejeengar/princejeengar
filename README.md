@@ -1,6 +1,6 @@
 ![banner](https://github.com/princejeengar/princejeengar/blob/main/github-banner.png)
 
-<h1 align="center">Hi, I'm Prince Jeengar</h1>
+<h1 align="center">Hi, I'm Prince Jinger</h1>
 <h3 align="center">Java Backend Developer | Budding Full Stack Developer | Tech Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
@@ -18,7 +18,7 @@
 
 ---
 
-### 🌐 Connect with me:
+###  Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/princejeengar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princejeengar" height="30" width="40" />
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+###  Languages and Tools:
 
 <p align="left">
   <a href="https://www.java.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+###  GitHub Stats:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princejeengar&layout=compact&theme=radical" alt="Top Langs" />
