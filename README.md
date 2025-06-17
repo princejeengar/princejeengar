@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prince Jeengar</h1>
+<h3 align="center">Java Backend Developer | Budding Full Stack Developer | Tech Enthusiast</h3>
 
-<!--
-**princejeengar/princejeengar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔭 Currently working at an early-stage startup where I handle **end-to-end product development** – from backend logic to frontend UI, infrastructure to deployment.  
+🌱 Eagerly learning **JavaScript**, **React**, and full-stack development practices.  
+👨‍💻 Completed 3 internships focused on **Java backend**, microservices, REST APIs, and system design.  
+🚀 Passionate about solving real-world problems and building scalable tech products.  
+🎯 Strong believer in learning by doing – every day brings new challenges and new lessons.  
+💡 A blend of technical execution and business thinking for building **efficient, impactful solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📫 How to reach me:  
+- LinkedIn: [linkedin.com/in/princejeengar](https://www.linkedin.com/in/princejeengar)  
+---
