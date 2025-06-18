@@ -11,8 +11,9 @@
 -  I’m currently learning **JavaScript**, **React**, and modern full-stack development.  
 -  Completed **3 internships** in Java Backend and Full Stack Development  
 -  I love collaborating on scalable backend systems and business-oriented products.  
--  Ask me about **Java, Spring Boot, APIs, React, Git, and system design**  
--  Always ready to take on challenges & learn by building.  
+-  Ask me about **Java, Spring Boot, APIs, Agile, Git, and system design**  
+-  Always ready to take on challenges & learn by building.
+-  Familiar with both **Relational and Not Relational Databases.** 
 -  A blend of **tech execution + business thinking** to build efficient systems.  
 -  Strong team player, fast learner, responsible & a proactive leader.  
 
@@ -35,10 +36,6 @@
 </p>
 
 ---
-
-###  Languages and Tools:
-
-###  Languages and Tools:
 
 ###  Languages and Tools:
 
