@@ -24,6 +24,9 @@
   <a href="https://www.linkedin.com/in/princejinger17april2000/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princejeengar" height="30" width="40" />
   </a>
+  <a href="https://princejinger.online/" target="blank">
+    <img align="center" src="https://princejinger.online/" alt="princejeengar" height="30" width="40" />
+  </a>
 <!--   <a href="https://t.me/fobflex" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" height="30" width="30" />
   </a>
